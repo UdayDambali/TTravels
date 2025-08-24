@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Static/Build
+staticfiles/
+build/
+dist/
+
+# Appwrite
+appwrite.json
+
+# Others
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Ignore test coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Ignore Jupyter
+.ipynb_checkpoints/
+*.ipynb
